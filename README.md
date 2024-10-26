@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Animate.css Demo Slides
 
 To start the slide show:
 
